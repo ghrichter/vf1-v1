@@ -1,9 +1,5 @@
-# vf1-v1
+# Vefforritun 1 - Verkefni 1
 
-lorem ipsum etc
+##  Einskonar 'Hello World'
 
-##subheader
-
-more ipsum
-
-w
+Pælingin er að hanna síðu sem inniheldur texta og leiðir á aðra síðu, sem inniheldur upplýsingar og mynd ásamt hlekk á forsíðu
